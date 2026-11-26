@@ -18,7 +18,7 @@
 
 ---
 
-## 01 // PROFESSIONAL PROFILE
+## 01 // PROFILE
 
 <pre>
 IDENTITY       : ASADULLAH SAYEEDI
