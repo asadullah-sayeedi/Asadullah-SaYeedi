@@ -18,7 +18,7 @@
 
 ---
 
-## 01 // PROFILE
+## PROFILE
 
 <pre>
 IDENTITY       : ASADULLAH SAYEEDI
@@ -35,7 +35,7 @@ STATUS         : PRACTICAL PROJECT DEVELOPMENT
 
 ---
 
-## 02 // ABOUT ME
+## ABOUT ME
 
 Hi, I'm **Asadullah Sayeedi**, a Computer Science graduate focused on
 Cybersecurity, SOC Analysis, and Network Engineering.
@@ -59,7 +59,7 @@ infrastructures.
 
 ---
 
-## 03 // BLUE-TRACE
+## BLUE-TRACE
 
 <div align="center">
 
@@ -82,7 +82,7 @@ infrastructures.
 
 ---
 
-## 04 // TECHNICAL EXPERTISE
+##  TECHNICAL EXPERTISE
 
 <div align="center">
 
@@ -112,7 +112,7 @@ infrastructures.
 
 ---
 
-## 05 // SOC & SECURITY KNOWLEDGE
+## SOC & SECURITY KNOWLEDGE
 
 | Domain | Technical Focus |
 |:---|:---|
@@ -126,7 +126,7 @@ infrastructures.
 
 ---
 
-## 06 // FEATURED PROJECTS
+## FEATURED PROJECTS
 
 <div align="center">
 
@@ -154,7 +154,7 @@ infrastructures.
 
 ---
 
-## 07 // GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <div align="center">
 
@@ -170,7 +170,7 @@ infrastructures.
 
 ---
 
-## 08 // CONTRIBUTION ACTIVITY
+##  CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -180,7 +180,7 @@ infrastructures.
 
 ---
 
-## 09 // PROFESSIONAL OBJECTIVE
+## PROFESSIONAL OBJECTIVE
 
 <pre>
 MISSION:
@@ -196,7 +196,7 @@ LEARN  ->  BUILD  ->  ANALYZE  ->  SECURE  ->  IMPROVE
 
 ---
 
-## 10 // CONNECT WITH ME
+## CONNECT WITH ME
 
 <div align="center">
 
